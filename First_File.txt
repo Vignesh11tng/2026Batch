@@ -1,26 +1,3 @@
 Second_line
-First_line
 
-First_line
-
-First_line
-
-First_line
-First_line
-
-first_------
------------
-First_line
-First_line
-
-First_line
-
-First_line
-
-First_line
-First_line
-
-first_------
------------
-Second one
-Second one
+second_line
